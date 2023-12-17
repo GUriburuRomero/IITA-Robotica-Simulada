@@ -651,9 +651,9 @@ body {
         position: absolute;
         top: 35%;
         left: 50%;
-        transform: translate(-50%, 72%);
+        transform: translate(-50%, 84%);
         color: #192a56;
-        font-size: 300%;
+        font-size: 200%;
         font-family: 'Quicksand', sans-serif;
     }
     
@@ -664,7 +664,7 @@ body {
         left: 50%;
         transform: translate(-50%, 50%);
         color: #192a56;
-        font-size: 300%;
+        font-size: 200%;
         font-family: 'Quicksand', sans-serif;
         background-color: #6ab04c;
         padding: 40px;
